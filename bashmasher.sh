@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bash Mather v1.0.8d
-# By Jermaine McIntosh
+# By Jermaine McIntosh, a very bored 25 year old.
 # A simple calculator made to practice bash scripting.
 
 echo "		__________               .__         _____          __  .__"
